@@ -5,19 +5,20 @@
 # Ecommerce feito com Kafka e MSA
 ## 🚀 mensageria
 
-Um simples site responsivo com persistência a dados, onde podemos cadastrar pessoas que buscam uma oportunidade de trabalho. A ideia é disponibilizar os recursos
-para os candidatos, recrutadores e empresas.
+Serviços distribuídos com tratamentos de logs usando mensageria kafka com arquitetura de microsserviços.
+
 
 ## 📋 Pré-requisitos
 - Java 11 https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
 - Bando de dados Mysql ou MariaDB
 - IDE de sua preferência.
 
-
 ## 🔧 Instalação
 
 Faça o git clone da aplicação. Entre na pasta, clique com o botão direito no arquivo POM.xml e clique
-em abrir com programa (IDE de sua preferência). Espere baixar os pacotes e pronto!
+em abrir com programa (IDE de sua preferência). Espere baixar as dependências e pronto!
+
+OBS: Necessário saber instalar o zookepeer com kafka.
 
 ## ⚙️ Executando a API
 
